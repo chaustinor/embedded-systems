@@ -1,0 +1,33 @@
+/* .highcharts-xaxis-grid .highcharts-grid-line {
+    stroke-width: 2px;
+    stroke: #d8d8d8;
+  }
+  .highcharts-xaxis .highcharts-tick {
+    stroke-width: 2px;
+    stroke: #d8d8d8;
+  }
+  .highcharts-minor-grid-line {
+    stroke-dasharray: 2, 2;
+    color: red;
+  } */
+
+  .highcharts-grid-line {
+    /* stroke: #09223f; */
+    /* border-style: solid;
+    stroke-width: 1.4px; */
+    /*stroke: linear-gradient(to bottom, rgba(165, 179, 197, 0), rgba(9, 34, 63, 0.15) 31%); */
+  }
+  .highcharts-axis-line {
+    stroke: #09223f;
+    opacity: 0.15;
+    stroke-width: 3px;
+  }
+
+  .highcharts-xaxis-grid .highcharts-grid-line {
+    stroke-opacity: 0.15;
+    stroke: #09223f;
+    stroke-width: 1px;
+  }
+  .tooltip-class {
+    background-color: red;
+  }
